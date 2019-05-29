@@ -1,0 +1,75 @@
+.button1 {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #ff0000;
+  border-radius: 4px;
+  font-size: 20px;
+}
+.button1:hover {
+  cursor: pointer;
+  border: 2px solid #f0f0f0;
+}
+.button1:active {
+  border: 2px solid #000000;
+}
+.button2 {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #ff7700;
+  border-radius: 4px;
+  font-size: 20px;
+}
+.button2:hover {
+  cursor: pointer;
+  border: 2px solid #f0f0f0;
+}
+.button2:active {
+  border: 2px solid #000000;
+}
+.button3 {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #eeff00;
+  border-radius: 4px;
+  font-size: 20px;
+}
+.button3:hover {
+  cursor: pointer;
+  border: 2px solid #f0f0f0;
+}
+.button3:active {
+  border: 2px solid #000000;
+}
+.button4 {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #00ff00;
+  border-radius: 4px;
+  font-size: 20px;
+}
+.button4:hover {
+  cursor: pointer;
+  border: 2px solid #f0f0f0;
+}
+.button4:active {
+  border: 2px solid #000000;
+}
+.button5 {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #0000ff;
+  border-radius: 4px;
+  font-size: 20px;
+}
+.button5:hover {
+  cursor: pointer;
+  border: 2px solid #f0f0f0;
+}
+.button5:active {
+  border: 2px solid #000000;
+}
