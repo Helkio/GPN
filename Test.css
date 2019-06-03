@@ -13,6 +13,21 @@
 .button1:active {
   border: 2px solid #000000;
 }
+.button1-2 {
+  cursor: pointer;
+  background-image: url("GPN-Pic-1.jpg");
+  background-color: #ff0000;
+  position:fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  max-width: 100%;
+  max-height: 100%;
+  background-position: center;
+  background-size: cover;
+
+}
 .button2 {
   cursor: pointer;
   background-color: white;
