@@ -28,6 +28,28 @@
   background-size: cover;
 
 }
+.button1-3 {
+  cursor: pointer;
+  background-image: url("IMG_0787 (1).PNG");
+  background-color: #ff0000;
+  position:fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  width: 100%;
+  max-height: 100%;
+  background-position: center;
+  background-size: cover;
+
+}
+.button1-3:hover {
+  cursor: pointer;
+  border: 2px solid #000000;
+}
+  .button1-3:active {
+    border: 2px solid #f0f0f0;
+}
 .button2 {
   cursor: pointer;
   background-color: white;
