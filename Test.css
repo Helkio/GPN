@@ -53,9 +53,7 @@
 }
 
 .button1-4 {
-  "cursor: pointer;
-  img: url("GPN-Pic-April.jpg");
-  width: device-width;
+  cursor: pointer;
 }
 
 .button1-4:hover {
