@@ -64,12 +64,13 @@
 }
 
 .button1-5 {
-  text: "We Help Gamers Unite.";
+  cursor: default;
+  h1: "We Help Gamers Unite.";
 }
 
 .button1-5:hover {
   cursor: default;
-  text: "We Divide, and Conquer.";
+  h1: "We Divide, and Conquer.";
 }
 
 .button2 {
